@@ -2,8 +2,6 @@
 #SingleInstance force
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
-FileDelete, bedrock.pid
-FileAppend, % DllCall("GetCurrentProcessId"), bedrock.pid
 
 toggle := false
 
