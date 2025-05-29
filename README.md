@@ -6,4 +6,4 @@ I codded this cause i was playing Minecraft from MS-Store, but my cursor was goi
 was playing, and that was annoying, so, I codded this. This isn´t so much, but it can help somebody with the
 same problem :D
 
-If you need, you always can configure the border detection in the source of the .ahk.
+If you need, you always can configure the border detection in the source code of the .ahk.
